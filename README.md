@@ -28,24 +28,24 @@ I'm an aspiring web developer with a background in Digital Media Art and Project
 
 ---
 
-<img align="left" alt="html" height="35px" src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" />
-<img align="left" alt="css" height="35px" src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg" />
-<img align="left" alt="Sass" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="ex" height="35px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" />
-<img align="left" alt="jquery" height="35px" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" />
-<img align="left" alt="SQL" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="psql" height="35px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" />
-<img align="left" alt="Git" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" height="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Visual Studio Code" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="ps" height="35px" src="https://github.com/get-icon/geticon/blob/master/icons/adobe-photoshop.svg" />
-<img align="left" alt="ruby" height="35px" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" />
-<img align="left" alt="rails" height="35px" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" />
-<img align="left" alt="mui" height="35px" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" />
+<img alt="html" height="35px" src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" />
+<img alt="css" height="35px" src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg" />
+<img alt="Sass" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img alt="JavaScript" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img alt="React" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img alt="Node.js" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img alt="ex" height="35px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" />
+<img alt="jquery" height="35px" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" />
+<img alt="SQL" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img alt="psql" height="35px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" />
+<img alt="Git" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img alt="GitHub" height="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img alt="Terminal" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img alt="Visual Studio Code" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img alt="ps" height="35px" src="https://github.com/get-icon/geticon/blob/master/icons/adobe-photoshop.svg" />
+<img alt="ruby" height="35px" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" />
+<img alt="rails" height="35px" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" />
+<img alt="mui" height="35px" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" />
 
 <br />
 <br />
