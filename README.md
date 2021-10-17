@@ -13,6 +13,20 @@ I'm an aspiring web developer with a background in Digital Media Art and Project
 
 ### Languages and Tools:
 
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+
+---
+
 <img align="left" alt="html" height="35px" src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" />
 <img align="left" alt="css" height="35px" src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg" />
 <img align="left" alt="Sass" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -32,7 +46,7 @@ I'm an aspiring web developer with a background in Digital Media Art and Project
 <img align="left" alt="rails" height="35px" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" />
 <img align="left" alt="mui" height="35px" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" />
 
-
+---
 
 ### Github Analytics
 [![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=woodpeckershop&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
