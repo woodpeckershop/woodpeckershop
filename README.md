@@ -4,6 +4,9 @@
 
 I'm an aspiring web developer with a background in Digital Media Art and Project Management. I recently graduated from Lighthouse Labs and am currently seeking a Junior Developer position. 
 
+<br />
+
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -33,15 +36,13 @@ I'm an aspiring web developer with a background in Digital Media Art and Project
 <img align="left" alt="mui" height="35px" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" />
 
 
-<br />
-<br />
 
----
 
-[website]: https://codeSTACKr.com
-[linkedin]: https://www.linkedin.com/in/chrissun5567/
 
 
 ## Github Analytics
 [![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=woodpeckershop&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[website]: https://codeSTACKr.com
+[linkedin]: https://www.linkedin.com/in/chrissun5567/
 
