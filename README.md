@@ -4,8 +4,6 @@
 
 I'm an aspiring web developer with a background in Digital Media Art and Project Management. I recently graduated from Lighthouse Labs and am currently seeking a Junior Developer position. 
 
-<br />
-
 
 ### Connect with me:
 
@@ -34,9 +32,6 @@ I'm an aspiring web developer with a background in Digital Media Art and Project
 <img align="left" alt="ruby" height="35px" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" />
 <img align="left" alt="rails" height="35px" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" />
 <img align="left" alt="mui" height="35px" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" />
-
-
-
 
 <br />
 
