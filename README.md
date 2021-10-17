@@ -43,5 +43,5 @@ I'm an aspiring web developer with a background in Digital Media Art and Project
 
 ---
 
-[![Chris Sun's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Chris Sun's GitHub stats](https://github-readme-stats.vercel.app/api?username=woodpeckershop)](https://github.com/anuraghazra/github-readme-stats)
 
