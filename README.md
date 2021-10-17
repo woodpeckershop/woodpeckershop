@@ -34,12 +34,12 @@ I'm an aspiring web developer with a background in Digital Media Art and Project
 
 
 
-[<img align="left" alt="css" width="26px" src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" />]
+<img align="left" alt="css" width="26px" src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" />
 
-[<img align="left" alt="css" width="26px" src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg" />]
+<img align="left" alt="css" width="26px" src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg" />
 
 
-[<img align="left" alt="jquery" width="26px" src="https://github.com/get-icon/geticon/blob/master/icons/jquery.svg" />]
+<img align="left" alt="jquery" width="26px" src="https://github.com/get-icon/geticon/blob/master/icons/jquery.svg" />
 
 
 
