@@ -48,6 +48,7 @@ I'm an aspiring web developer with a background in Digital Media Art and Project
 <img align="left" alt="mui" height="35px" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" />
 
 ---
+
 <br />
 
 ### Github Analytics
