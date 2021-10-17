@@ -10,6 +10,7 @@ I'm an aspiring web developer with a background in Digital Media Art and Project
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<br />
 
 ### Languages and Tools:
 
@@ -47,6 +48,7 @@ I'm an aspiring web developer with a background in Digital Media Art and Project
 <img align="left" alt="mui" height="35px" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" />
 
 ---
+<br />
 
 ### Github Analytics
 [![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=woodpeckershop&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
