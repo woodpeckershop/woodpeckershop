@@ -1,14 +1,8 @@
-### Hi there, I'm Chris Sun [website] 👋
+### Hi, I'm Chris Sun [website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Website](https://img.shields.io/website?label=chrissun.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 
 I'm an aspiring web developer with a background in Digital Media Art and Project Management. I recently graduated from Lighthouse Labs and am currently seeking a Junior Developer position. 
-
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me:
 
@@ -39,13 +33,6 @@ I'm an aspiring web developer with a background in Digital Media Art and Project
 <img align="left" alt="mui" height="35px" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" />
 
 
-
-
-
-
-
-
-
 <br />
 <br />
 
@@ -53,3 +40,8 @@ I'm an aspiring web developer with a background in Digital Media Art and Project
 
 [website]: https://codeSTACKr.com
 [linkedin]: https://www.linkedin.com/in/chrissun5567/
+
+---
+
+[![Chris Sun's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
