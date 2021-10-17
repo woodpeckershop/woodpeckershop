@@ -10,7 +10,7 @@ I'm an aspiring web developer with a background in Digital Media Art and Project
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
-
+---
 ### Languages and Tools:
 
 <img align="left" alt="html" height="35px" src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" />
@@ -41,7 +41,7 @@ I'm an aspiring web developer with a background in Digital Media Art and Project
 [website]: https://codeSTACKr.com
 [linkedin]: https://www.linkedin.com/in/chrissun5567/
 
----
 
-[![Chris Sun's GitHub stats](https://github-readme-stats.vercel.app/api?username=woodpeckershop)](https://github.com/anuraghazra/github-readme-stats)
+## Github Analytics
+[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=woodpeckershop&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
