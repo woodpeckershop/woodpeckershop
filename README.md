@@ -36,7 +36,10 @@ I'm an aspiring web developer with a background in Digital Media Art and Project
 <br />
 
 ## Github Analytics
-[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=woodpeckershop&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=woodpeckershop&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## Top Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=woodpeckershop)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://codeSTACKr.com
 [linkedin]: https://www.linkedin.com/in/chrissun5567/
