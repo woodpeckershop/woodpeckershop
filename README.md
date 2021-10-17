@@ -28,8 +28,8 @@ I'm an aspiring web developer with a background in Digital Media Art and Project
 
 ---
 
-<img alt="html" height="35px" width = '35px' src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" />
-<img alt="css" height="35px" width = '35px' src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg" />
+<img alt="html" height="35" width = '35' src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" />
+<img alt="css" height="35" width = '35' src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg" />
 <img alt="Sass" height="35px" width = '35px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img alt="JavaScript" height="35px" width = '35px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img alt="React" height="35px" width = '35px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
