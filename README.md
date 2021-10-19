@@ -2,7 +2,7 @@
 
 I'm an aspiring web developer with a background in Digital Media Art and Project Management. I recently graduated from Lighthouse Labs and am currently seeking a Junior Developer position.
 
-### Connect with me: :mailbox:
+### Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Chris_Sun-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrissun5567/)
 [![Mail Badge](https://img.shields.io/badge/-Chris_Sun-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:chris.sun5567@gmail.com)
