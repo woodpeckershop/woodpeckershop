@@ -3,14 +3,12 @@
 I'm an aspiring web developer with a background in Digital Media Art and Project Management. I recently graduated from Lighthouse Labs and am currently seeking a Junior Developer position.
 
 ### Connect with me: :mailbox:
-<br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-Chris_Sun-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrissun5567/)
 [![Mail Badge](https://img.shields.io/badge/-Chris_Sun-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:chris.sun5567@gmail.com)
-<br />
-### Languages and Tools:
 
-<br />
+
+### Languages and Tools:
 
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -28,8 +26,6 @@ I'm an aspiring web developer with a background in Digital Media Art and Project
 ![](https://img.shields.io/badge/Photoshop-CC6699?style=for-the-badge&logo=AdobePhotoshop&logoColor=white)
 ![](https://img.shields.io/badge/Sequelize-CC342D?style=for-the-badge&logo=Sequelize&logoColor=white)
 
-<br />
-
 ### Github Analytics
 
 [![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=woodpeckershop&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -37,9 +33,6 @@ I'm an aspiring web developer with a background in Digital Media Art and Project
 ### Top Languages
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=woodpeckershop&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[website]: https://codeSTACKr.com
-[linkedin]: https://www.linkedin.com/in/chrissun5567/
 
 ### Profile Visits
 
