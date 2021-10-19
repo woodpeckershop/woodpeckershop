@@ -2,7 +2,7 @@
 
 I'm an aspiring web developer with a background in Digital Media Art and Project Management. I recently graduated from Lighthouse Labs and am currently seeking a Junior Developer position.
 
-### Connect with me::mailbox:
+### Connect with me: :mailbox:
 
 <br />
 
