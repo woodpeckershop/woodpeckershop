@@ -1,6 +1,12 @@
 ### Hi, I'm Chris Sun  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm an aspiring web developer with a background in Digital Media Art and Project Management. I recently graduated from Lighthouse Labs and am currently seeking a Junior Developer position.
+A developer with skills in both the front-end and back-end of web applications, and a background in Engineering and Project Management. 
+
+Passionate about learning new tech stacks and applying them to build websites and applications.
+
+An engineering-minded problem solver, effective communicator, and stakeholder-focused project management professional.
+
+Let’s talk.
 
 ### Connect with me:
 
