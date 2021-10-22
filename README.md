@@ -2,7 +2,7 @@
 
 A developer with skills in both the front-end and back-end of web applications, and a background in Engineering and Project Management. 
 
-Passionate about learning new tech stacks and applying them to build websites and applications.
+Passionate about learning new tech stacks and creating products that are convenient, accessible and easy to use.
 
 An engineering-minded problem solver, effective communicator, and stakeholder-focused project management professional.
 
