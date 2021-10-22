@@ -9,7 +9,7 @@ An engineering-minded problem solver, effective communicator, and stakeholder-fo
 Let’s talk.
 
 ### Connect with me:
-
+[![Website Badge](https://img.shields.io/badge/-Chris_Sun-F7DF1E?style=flat&labelColor=F7DF1E&logo=GoogleEarth&logoColor=black)](http://chris-sun.me/)
 [![Linkedin Badge](https://img.shields.io/badge/-Chris_Sun-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrissun5567/)
 [![Mail Badge](https://img.shields.io/badge/-Chris_Sun-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:chris.sun5567@gmail.com)
 
