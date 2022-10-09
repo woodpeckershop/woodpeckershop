@@ -1,8 +1,6 @@
 ### Hi, I'm Chris Sun  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-A developer with skills in both the front-end and back-end of web applications, and a background in Engineering and Project Management. 
-
-Passionate about learning new tech stacks and creating products that are convenient, accessible and easy to use.
+Software Engineer with 7 years of engineering experience, a B.Eng in Digital Media and Telecommunications, a Diploma in Web Development and Project Management Professional Certification (PMP).
 
 An engineering-minded problem solver, effective communicator, and stakeholder-focused project management professional.
 
