@@ -22,7 +22,7 @@ Let’s talk.
 ![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![](https://img.shields.io/badge/Php-CC342D?style=for-the-badge&logo=Sequelize&logoColor=white)
+![](https://img.shields.io/badge/Php-43853D?style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![](https://img.shields.io/badge/Rails-F7DF1E?style=for-the-badge&logo=RubyonRails&logoColor=black)
 ![](https://img.shields.io/badge/PostgreSQL-1572B6?style=for-the-badge&logo=postgresql&logoColor=white)
