@@ -1,8 +1,6 @@
 ### Hi, I'm Chris Sun  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-Software Engineer with 7 years of engineering experience, a B.Eng in Digital Media and Telecommunications, a Diploma in Web Development and Project Management Professional Certification (PMP).
-
-An engineering-minded problem solver, effective communicator, and stakeholder-focused project management professional.
+A Software Engineer with 2 years of experience in software development and design, and 5 years of experience in project management. Specializing in frontend and backend web development. A highly skilled and motivated problem solver with a passion for creating efficient, reliable, and scalable software solutions. Thrives in collaborative team environments, managing multiple projects simultaneously. Fluent in English and Chinese.
 
 Let’s talk.
 
