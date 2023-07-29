@@ -27,11 +27,3 @@ Let’s talk.
 ![](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Photoshop-CC6699?style=for-the-badge&logo=AdobePhotoshop&logoColor=white)
 ![](https://img.shields.io/badge/Sequelize-CC342D?style=for-the-badge&logo=Sequelize&logoColor=white)
-
-### Top Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=woodpeckershop&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-### Profile Visits
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=woodpeckershop.woodpeckershop)
