@@ -28,10 +28,6 @@ Let’s talk.
 ![](https://img.shields.io/badge/Photoshop-CC6699?style=for-the-badge&logo=AdobePhotoshop&logoColor=white)
 ![](https://img.shields.io/badge/Sequelize-CC342D?style=for-the-badge&logo=Sequelize&logoColor=white)
 
-### Github Analytics
-
-[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=woodpeckershop&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Top Languages
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=woodpeckershop&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
