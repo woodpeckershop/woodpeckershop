@@ -1,6 +1,6 @@
 ### Hi, I'm Chris Sun  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-A Software Engineer with 2 years of experience in software development and design, and 5 years of experience in project management. Specializing in frontend and backend web development. A highly skilled and motivated problem solver with a passion for creating efficient, reliable, and scalable software solutions. Thrives in collaborative team environments, managing multiple projects simultaneously. Fluent in English and Chinese.
+Experienced Software Engineer with expertise in software development and project management. Specializing in frontend and backend web development. A highly skilled and motivated problem solver with a passion for creating efficient, reliable, and scalable software solutions. Thrives in collaborative team environments, managing multiple projects simultaneously. Fluent in English and Chinese.
 
 Let’s talk.
 
